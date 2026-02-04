@@ -1,32 +1,30 @@
 <div align="center">
-  <h1>Olá, eu sou o Alexandre 👋</h1>
+  <h1>Hello, I’m Alexandre 👋</h1>
   <p>
-    <strong>Estudante de Ciência da Computação</strong><br/>
+    <strong>Computer Science Student</strong><br/>
     Fullstack Developer • Mobile • UI/UX
   </p>
 
   <img 
-  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=460&lines=Desenvolvendo+ideias;Mobile+fluido+%7C+Backend+robusto;Arquitetura+limpa+e+escal%C3%A1vel;Interfaces+com+foco+em+UX" 
+  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=8B5CF6&center=true&vCenter=true&width=460&lines=Building+ideas;Smooth+mobile+%7C+Robust+backend;Clean+and+scalable+architecture;UX-focused+interfaces" 
 />
 
 </div>
 
-
 ---
 
-## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) Sobre mim
+## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) About me
 
+I am a **Computer Science student** passionate about turning ideas into **solid, scalable, and well-designed digital products**.
 
-Sou estudante de **Ciência da Computação** apaixonado por transformar ideias em **produtos digitais sólidos, escaláveis e bem pensados**.
+I work from **back-end to interface**, always prioritizing **clean architecture**, **code organization**, and **user experience**.
 
-Atuo do **back-end à interface**, sempre priorizando **arquitetura limpa**, **organização de código** e **experiência do usuário**.
+I am currently developing **Upon**, a complete project that combines a **robust backend**, **mobile application**, and **well-defined UX**, designed as a real-world market product.
 
-Atualmente estou desenvolvendo o **Upon**, um projeto completo que une **backend robusto**, **aplicativo mobile** e **UX bem definido**, pensado como um produto real de mercado.
-
-- ▸ **Projeto principal:** Monorepo **Upon** (NestJS + React Native)
-- ▸ **Interesse técnico:** Arquitetura de sistemas, APIs bem desenhadas e apps mobile
-- ▸ **UI/UX:** Prototipação e design de interfaces modernas com Figma
-- ▸ **Além do código:** Atuo com sistemas de alta complexidade para Gestão Pública e escrevo histórias nas horas vagas
+- ▸ **Main project:** **Upon** monorepo (NestJS + React Native)
+- ▸ **Technical interests:** System architecture, well-designed APIs, and mobile applications
+- ▸ **UI/UX:** Prototyping and modern interface design with Figma
+- ▸ **Beyond code:** I work with high-complexity systems for Public Administration and write stories in my spare time
 
 ---
 
@@ -51,11 +49,9 @@ Atualmente estou desenvolvendo o **Upon**, um projeto completo que une **backend
 
 </div>
 
-
 ---
 
-## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) Contatos
-
+## ![](https://img.shields.io/badge/◈-8B5CF6?style=flat-square&labelColor=0D1117) Contacts
 
 <div align="center">
   <a href="https://instagram.com/alex_lbnt" target="_blank">
@@ -68,6 +64,3 @@ Atualmente estou desenvolvendo o **Upon**, um projeto completo que une **backend
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
 </div>
-
-
-
